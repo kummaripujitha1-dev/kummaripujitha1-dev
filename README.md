@@ -1,2 +1,5 @@
 👩🏻‍🎓 I'm **Pujitha**, a CSE student passionate about 🌐 **Web Development** and 📊 **Data Analytics**.
-💡 My interests lie in building user-friendly web applications and transforming raw data into meaningful insights using 🐍 Python, 🗄️ SQL, 📈 Excel, and 📊 Power BI. I enjoy learning new technologies 🚀, working on practical projects 💻, and continuously improving my problem-solving skills 🧩. I'm currently focused on developing real-world projects that strengthen both my technical knowledge 📚 and analytical thinking 📈.
+
+💡 My interests lie in building user-friendly web applications and transforming raw data into meaningful insights using 🐍 Python, 🗄️ SQL, 📈 Excel, and 📊 Power BI. I enjoy learning new technologies 🚀, working on practical projects 💻, and continuously improving my problem-solving skills 🧩. 
+
+I'm currently focused on developing real-world projects that strengthen both my technical knowledge 📚 and analytical thinking 📈.
